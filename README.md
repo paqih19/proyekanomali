@@ -1,1 +1,1 @@
-# proyekanomali
+ini adalah proyek kami
